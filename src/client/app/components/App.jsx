@@ -6,16 +6,12 @@ import About from './About';
 class App extends Component {
   constructor(props) {
     super(props);
-
-    this.state = {
-
-    };
   }
 
   render() {
     return (
       <div>
-        <p>Hello, Reacts!</p>
+        <p>Hello, React!</p>
 
         <Router>
           <div>
